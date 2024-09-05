@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+}
+.topbar{
+    background-color: bisque;
+    padding: 20px;
+}
+.topbar ul{
+    text-align: center;
+    list-style: none;
+    margin: 0px;
+    overflow: hidden;
+}
+.topbar a{
+    text-decoration: none;
+    color: black;
+    float: right;
+    padding-right: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.topbar a:hover{
+    background-color: rgb(206, 182, 153);
+}
+.title{
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.pope dl{
+    padding: 10px
+}
+.pope div{
+    margin: 20px;
+    outline-style: solid;
+    outline-offset: 5px;
+    outline-width: 1px;
+    outline-color: rgb(173, 173, 173);
+}
